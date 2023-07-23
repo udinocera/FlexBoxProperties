@@ -1,0 +1,39 @@
+body {
+    display: flex;
+
+}
+
+#yellow {
+    position: absolute;
+    left: 0px;
+}
+
+#red {
+    text-align: initial;
+    position:relative;
+    right: 35rem;    
+   
+}
+
+#green {
+    
+    position: relative;
+    left: 50px;
+}
+
+
+#orange {
+    position: relative;
+    right: 40px;
+    left: 45px;
+    
+}
+
+
+
+#blue {
+    
+    position:relative;
+    right: 130px;
+}
+
