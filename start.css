@@ -37,3 +37,9 @@ body {
     right: 130px;
 }
 
+#orange p {
+   position: relative;
+   bottom: 70px;
+   right: 55px;
+}
+
